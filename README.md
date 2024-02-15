@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @araviindm
-- 👀 I’m a full stack developer
-- 🌱 my tech stack includes Golang, Vue and firebase
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a full-stack developer
+- 🌱 My tech stack includes Golang, Python, Vue, React, PostgreSQL, MongoDB, and Firebase.
 - 📫 How to reach me araviindm@gmail.com
 
 <!---
